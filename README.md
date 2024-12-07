@@ -14,3 +14,6 @@ I share at
 
 
 Feel free to explore my repositories, blogs, videos, and reachout for any questions!
+
+---
+<p align="left"> <span title="Created using ryo-ma's github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kedarvj&column=5&rank=-C,-B,-?" alt="kedarvj" /></span> </p>
