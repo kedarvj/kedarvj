@@ -3,7 +3,7 @@ I specialize in MySQL performance optimization, troubleshooting, high-availabili
 
 I share at
 - [kedar.nitty-witty.com](https://kedar.nitty-witty.com/blog/)
-- [MySQLZ YouTube Channel](https://www.youtube.com/@mysqlz)
+- [YouTube Channel](https://www.youtube.com/@mysqlz)
 - [Spotify Podcast](https://open.spotify.com/show/6ndYU0ULlgOt4tRT9oFcwf)
  
 
